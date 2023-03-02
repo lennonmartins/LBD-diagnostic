@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.tabela-componentes{
+    width: 1300px;    
+}
+
+.componentes-cabecalho{
+    background-color: #25435b;
+    color: white;
+}
+
+.espaco-cabecalho{
+    width: 50%;
+}
+
+.card-login{
+    border-radius: 10px;
+    background-color: #70a6eb;
+    width:300px;
+    margin-left: 20%;
+    text-align: center;
+}
+
+.logo-certificados{
+    margin-left: 550px;
+    margin-top: 10px;
+   vertical-align: bottom;
+}
