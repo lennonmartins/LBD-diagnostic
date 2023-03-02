@@ -1,9 +1,15 @@
 body{
-    margin: 0;
+    margin: 0 10%;
 }
 
 .tabela-componentes{
     width: 1300px;    
+    
+}
+
+.tabela-banner{
+    height: 435px;
+    background-image: url(./assets/top_resultado_exame.png);
 }
 
 .componentes-cabecalho{
@@ -26,5 +32,15 @@ body{
 .logo-certificados{
     margin-left: 550px;
     margin-top: 10px;
-   vertical-align: bottom;
+    
 }
+
+.td-logo-certificados{
+    vertical-align: top;
+}
+
+.cards-informacoes{
+    text-align: center;
+   
+}
+
